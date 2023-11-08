@@ -2,7 +2,7 @@
 
 - 👋 Hi, This is Md Shakil Hossain.
 - 👀 I’m interested in ...
-- 🌱 <!--- I’m currently learning C programming.
+- 🌱 <!--- I’m currently learning Java programming.
 - 💞️ I’m looking to collaborate on ...--->
 - 📫 You can find me here : shakilhere.com
 
